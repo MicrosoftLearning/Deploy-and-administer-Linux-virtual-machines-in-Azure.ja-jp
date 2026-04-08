@@ -1,14 +1,6 @@
-#README
-
-We've turned off the ability to report issues directly on this repo and do not monitor PRs.
-
-Provide feedback here: https://aka.ms/provide-feedback
-
-Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
-
 # Azure での Linux 仮想マシンのデプロイと管理
 
-HTML ページ[**をお**](https://microsoftlearning.github.io/Deploy-and-administer-Linux-virtual-machines-in-Azure/)探しですか?
+デモとラボへのリンク (**[HTML バージョン](https://microsoftlearning.github.io/Deploy-and-administer-Linux-virtual-machines-in-Azure/)**)。
 
 **あなたは MCT ですか?** - [MCT 向けの GitHub ユーザー ガイド](https://microsoftlearning.github.io/MCT-User-Guide/)をご覧ください
 
